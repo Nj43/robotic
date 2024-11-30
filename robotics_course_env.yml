@@ -1,0 +1,26 @@
+name: robotics_course
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pinocchio
+  - meshcat-python
+  - example-robot-data
+  - jupyterlab
+  - ipywidgets
+  - matplotlib
+  - scipy
+  - quadprog
+  - keras
+  - tensorflow
+  - gym
+  - tqdm
+  - gymnasium
+  - imageio
+  - mujoco=2.3.7
+  - rich
+  - stable-baselines3
+  - tensorboard
+  - pip
